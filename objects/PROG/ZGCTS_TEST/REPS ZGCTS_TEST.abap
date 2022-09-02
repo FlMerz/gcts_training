@@ -6,5 +6,5 @@
 REPORT ZGCTS_TEST.
 WRITE: sy-uzeit.
 
-Format Color 2.
+Format Color 3.
 WRITE 'test'.
