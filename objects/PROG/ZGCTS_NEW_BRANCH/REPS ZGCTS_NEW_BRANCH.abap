@@ -5,7 +5,7 @@
 *&---------------------------------------------------------------------*
 REPORT ZGCTS_NEW_BRANCH.
 
-FORMAT Color 4.
+FORMAT Color 5.
 Write 'test'.
 WRITE 'test'.
 Write 'test'.
